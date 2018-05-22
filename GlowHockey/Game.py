@@ -545,5 +545,4 @@ class Game:
         glutMainLoop()
 
 game = Game(True, True, 0.004)
-game.music_fn()
 game.main()
